@@ -5,7 +5,7 @@
 - ```apt-get upgrade``` </br>
 - ```apt install lolcat``` </br>
 - ```apt install git``` </br>
-- ```git clone https://github.com/SubadraBro/Figlet.git``` </br>
+- ```git clone https://github.com/AiDarkEzio/Figlet.git``` </br>
 - ```cd``` </br>
 - ```ls``` </br>
 - ```cd Figlet``` </br>
